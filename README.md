@@ -88,4 +88,6 @@ port yang dipakai 5298
 3. Room
    - GET /api/Room
    - POST /api/Room
-   
+  
+## Refleksi
+- Dalam pengembangan aplikasi web secara  berkelompok saya harus lebih memerhatikan apa yang dikerjakan dan melakukan commit  push secara berkala tiap tasknya, hal ini membuka pandangan saya dimana ketika terjadi error saya bisa kembali ke versi sebelumnya yang masih optimal
