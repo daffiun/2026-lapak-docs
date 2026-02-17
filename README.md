@@ -1,6 +1,6 @@
-#Lapak (Layanan Administrasi Peminjaman Akses Kampus)
+# Lapak (Layanan Administrasi Peminjaman Akses Kampus)
 
-##Studi Kasus
+## Studi Kasus
 Topik: Sistem Peminjaman Ruangan Kampus
   • Bentuk Tugas: Individu
   • Target output:
@@ -30,7 +30,7 @@ Fitur Utama yang Diharapkan
     • Pengurutan data berdasarkan kriteria tertentu (opsional)
     • Kriteria pencarian dan teknik implementasi ditentukan oleh mahasiswa
 
-##Stack
+## Stack
 - Frontend = React Typescript
 - Styling = Tailwindcss
 - Icons = Lucide React
@@ -47,7 +47,7 @@ Fitur Utama yang Diharapkan
    - Controller dan logic: API menerima JSON, melakukan validasi, dan berkomunikasi dengan database melalui ENtity Framework core
    - Response: Backend mengembalikan kode status HTTP beserta data yang diminta
 
-##Cara menjalankan proyek
+## Cara menjalankan proyek
 1. Clone Repository
 2. Setup Backend
     - Namun sebelum itu harus masuk dengan
@@ -65,7 +65,7 @@ Fitur Utama yang Diharapkan
     - npm install
     - npm start
   
-##API spec
+## API spec
 port yang dipakai 5298
 
 1. Booking
